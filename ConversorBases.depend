@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1616971858 source:c:\users\felip\desktop\c\conversorbases\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
